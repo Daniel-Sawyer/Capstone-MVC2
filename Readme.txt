@@ -1,0 +1,7 @@
+In some of older fighting games you will find that the game will not teach you a lot of the buttons being based on arcade game they didn’t have it in game because you would just need to look on the cabinet and they would have a picture for it.
+But if you play on pc you might need to look it up and there are plenty of options for it. But the websites are not built for team fighting game and only show the characters in order of the website builders' choice making you need to scroll to find the other team members or have multiple tabs.
+My plan is to let you choose your team and display them in one area and gives you their move set. For this project I will be focusing on the team-based fighting game Marvel vs Capcom 2 new age of heroes, for its large roster and with its many button inputs that look scary but are a lot easier than one might think (also I really like this game but am new to learning it).   
+
+We have the pages with one being or main team builder that keeps a basic list of characters at the top with just name, pic, and add button, once add is hit we send all character info into an empty array then display the name, pic, input, and a delete button in case the user wishes to change a single character. 
+
+Next, we have a home page that will show more universal commands like what are the attack buttons and how to move with a brief explanation of what the inputs commands will look like to make sure you understand them.    
