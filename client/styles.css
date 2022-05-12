@@ -1,0 +1,52 @@
+.crumb{
+ display: inline-flex;
+ flex-wrap: wrap;
+ row-gap: 30;
+}
+body{
+    background-color: rgb(2, 139, 185);
+}
+
+
+#charpic {
+    width: 70px;
+    height: 50px;
+}
+#character-display{
+    display: flex;
+    flex-wrap: wrap;  
+    gap: 5px;
+    border: 30px;
+    border-color: darkgrey;
+}
+#team-display{
+    display: flex;
+    flex-wrap: wrap;
+}
+#teampic {
+    width: 150px;
+    height: 100px;
+}
+.char-container{
+    background-color: rgb(254, 254, 254);
+    border-radius: 10px;
+}
+
+#control-pic{
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 700px;
+}
+#home-text{
+    font-size: 50px;
+}
+#inputPic {
+    width: 500px;
+    height: 500px;
+}
+
+#manuel{
+    width: 600px;
+    height: 600px;
+}

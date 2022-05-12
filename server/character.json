@@ -1,0 +1,421 @@
+[
+    {
+        "id":1,
+        "Name": "Felicia",
+        "iconPic":"https://static.wikia.nocookie.net/marvelvscapcom/images/b/b2/MVC2_Felicia.jpg",
+        "inputImg":"../MVC2-inputs/Felicia.png",
+        "side": "capcom"
+    },
+    {
+        "id":2,
+        "Name": "MegaMan",
+        "iconPic":"http://4.bp.blogspot.com/_vBCSLbKJ7nI/SkOxvZAVn-I/AAAAAAAACQ4/CiqPgYSmLw8/s400/mvc2-mega-man.jpg",
+        "inputImg":"../MVC2-inputs/megaman.png",
+        "side": "capcom"
+    },
+    {
+        "id":3,
+        "Name": "Captain-Commando",
+        "iconPic":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3df6e634-60c1-45c7-9409-ecfa34fc0727/d8yompj-45213b68-746d-483c-8b2c-0ac1c004705f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNkZjZlNjM0LTYwYzEtNDVjNy05NDA5LWVjZmEzNGZjMDcyN1wvZDh5b21wai00NTIxM2I2OC03NDZkLTQ4M2MtOGIyYy0wYWMxYzAwNDcwNWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e_BaTR_XVkyS9nJ0etwJf_dOYRBC93e1DL-onA1fCsY",
+        "inputImg":"https://www.fightersgeneration.com/news2021/char3/captain-commando-mvc2-versus-art.png",
+        "side": "capcom"
+    },
+    {
+        "id":4,
+        "Name": "Dan",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_dan.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/f/f3/Mvc2-dan.jpg/revision/latest?cb=20080204231539",
+        "side": "capcom"
+    },
+    {
+        "id":5,
+        "Name": "Guile",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_guile.jpg",
+        "inputImg":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3df6e634-60c1-45c7-9409-ecfa34fc0727/d8yodhh-885e09cc-9ec0-4252-ba2e-8f6ec4915eee.png/v1/fill/w_429,h_768,strp/marvel_vs_capcom_2_guile_by_hes6789_d8yodhh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvM2RmNmU2MzQtNjBjMS00NWM3LTk0MDktZWNmYTM0ZmMwNzI3XC9kOHlvZGhoLTg4NWUwOWNjLTllYzAtNDI1Mi1iYTJlLThmNmVjNDkxNWVlZS5wbmciLCJ3aWR0aCI6Ijw9NDI5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.V4XsqVQ-UdeRlhUFSWPDFZFvfHQ3l3QJMoKVsJZLNBQ",
+        "side": "capcom"
+    },
+    {
+        "id":6,
+        "Name": "Amingo",
+        "iconPic":"https://image.pngaaa.com/958/5691958-middle.png",
+        "inputImg":"../MVC2-inputs/Amingo.png",
+        "side": "capcom"
+    },
+    {
+        "id":7,
+        "Name": "Ken",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_ken.jpg",
+        "inputImg":"https://i.kym-cdn.com/photos/images/original/001/957/987/014",
+        "side": "capcom"
+    },
+    {
+        "id":8,
+        "Name": "B.B. hood",
+        "iconPic":"https://pbs.twimg.com/media/EAZzBoyW4AAA_T_.jpg:large",
+        "inputImg":"../MVC2-inputs/Baby Bonnie Hood.png",
+        "side": "capcom"
+    },
+    {
+        "id":9,
+        "Name": "Ryu",
+        "iconPic":"https://www.pngitem.com/pimgs/m/86-861111_marvel-vs-capcom-2-ryu-render-hd-png.png",
+        "inputImg":"https://www.pngitem.com/pimgs/m/86-861111_marvel-vs-capcom-2-ryu-render-hd-png.png",
+        "side": "capcom"
+    },
+    {
+        "id":10,
+        "Name": "Sonson",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_sonson.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/b/b7/Mvc2-sonson.jpg/revision/latest?cb=20080319020048",
+        "side": "capcom"
+    },
+    {
+        "id":11,
+        "Name": "Charlie",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_charlie.jpg",
+        "inputImg":"https://img.favpng.com/20/24/1/marvel-vs-capcom-2-new-age-of-heroes-charlie-street-fighter-v-marvel-vs-capcom-3-fate-of-two-worlds-png-favpng-PGDT2jApzUXh1mhV8FGWhi4K1.jpg",
+        "side": "capcom"
+    },
+    {
+        "id":12,
+        "Name": "Akuma",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_akuma.jpg",
+        "inputImg":"../MVC2-inputs/Akuma.png",
+        "side": "capcom"
+    },
+    {
+        "id":13,
+        "Name": "Zangief",
+        "iconPic":"data:image/jpeg;base64,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",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/a/ac/Mvc2-zangief.jpg/revision/latest?cb=20080204221619",
+        "side": "capcom"
+    },
+    {
+        "id":14,
+        "Name": "Ruby heart",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_rubyheart.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/1/13/Mvc2-ruby-heart.jpg/revision/latest?cb=20080206015505",
+        "side": "capcom"
+    },
+    {
+        "id":15,
+        "Name": "Dhalsim",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_dhalsim.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/f/fb/Mvc2-dhalsim.jpg/revision/latest?cb=20080204231648",
+        "side": "capcom"
+    },
+    {
+        "id":16,
+        "Name": "Jin",
+        "iconPic":"https://cdn.videogamesblogger.com/wp-content/uploads/2009/06/marvel-vs-capcom-2-xbox-360-ps3-jin.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/d/d7/Mvc2-jin.jpg/revision/latest?cb=20080204234804",
+        "side": "capcom"
+    },
+    {
+        "id":17,
+        "Name": "Anakaris",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_anakaris.jpg",
+        "inputImg":"../MVC2-inputs/Anakaris.png",
+        "side": "capcom"
+    },
+    {
+        "id":18,
+        "Name": "Hayato",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_hayato.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/9/95/Mvc2-hayato.jpg/revision/latest?cb=20080206013939",
+        "side": "capcom"
+    },
+    {
+        "id":19,
+        "Name": "M.Bison",
+        "iconPic":"data:image/jpeg;base64,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",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/a/a9/Mvc2-m-bison.jpg/revision/latest?cb=20080204231933",
+        "side": "capcom"
+    },
+    {
+        "id":20,
+        "Name": "Morrigan",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_morrigan.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/e/ed/Mvc2-morrigan.jpg/revision/latest?cb=20080204235752",
+        "side": "capcom"
+    },
+    {
+        "id":21,
+        "Name": "Sakura",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_sakura.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/b/b6/Mvc2-sakura.jpg/revision/latest?cb=20080204232055",
+        "side": "capcom"
+    },
+    {
+        "id":22,
+        "Name": "Tron Bonnie",
+        "iconPic":"https://cdn.videogamesblogger.com/wp-content/uploads/2009/06/marvel-vs-capcom-2-xbox-360-ps3-t-bonne.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/9/9b/Mvc2-tron-bonne.jpg/revision/latest?cb=20080206020509",
+        "side": "capcom"
+    },
+    {
+        "id":23,
+        "Name": "Cammy",
+        "iconPic":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3df6e634-60c1-45c7-9409-ecfa34fc0727/d8yojl5-d4d1e32b-5ce4-4fec-9cd5-0c13a31a6cb9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNkZjZlNjM0LTYwYzEtNDVjNy05NDA5LWVjZmEzNGZjMDcyN1wvZDh5b2psNS1kNGQxZTMyYi01Y2U0LTRmZWMtOWNkNS0wYzEzYTMxYTZjYjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3MH5Rw80X5UEThZjEBUassTfgcqm7qAeNzgpkL-HdD0",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/b/b7/Mvc2-cammy.jpg/revision/latest?cb=20080204221736",
+        "side": "capcom"
+    },
+    {
+        "id":24,
+        "Name": "Strider",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_strider.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/a/a2/Mvc2-strider-hiryu.png/revision/latest?cb=20131224012056",
+        "side": "capcom"
+    },
+    {
+        "id":25,
+        "Name": "Jill",
+        "iconPic":"https://64.media.tumblr.com/tumblr_lgsuocafI21qgb1o5o1_400.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/1/1f/Mvc2-jill.jpg/revision/latest?cb=20210129010246",
+        "side": "capcom"
+    },
+    {
+        "id":26,
+        "Name": "Servbot",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_servbot.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/5/57/Mvc2-servbot.jpg/revision/latest?cb=20080206020106",
+        "side": "capcom"
+    },
+    {
+        "id":27,
+        "Name": "Roll",
+        "iconPic":"https://media.eventhubs.com/images/mvc1/character_header_roll.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/a/ab/Mvc2-roll.jpg/revision/latest?cb=20080206015216",
+        "side": "capcom"
+    },
+    {
+        "id":28,
+        "Name": "Chun li",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_chunli.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/f/fd/Mvc2-chun-li.jpg/revision/latest?cb=20080204221926",
+        "side": "capcom"
+    },
+    {
+        "id":29,
+        "Name": "wolverine(metal)",
+        "iconPic":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3df6e634-60c1-45c7-9409-ecfa34fc0727/d8yodxl-a79280b9-25bb-4e56-b338-1b8db77f90b4.png/v1/fill/w_454,h_768,strp/marvel_vs_capcom_2_wolverine_by_hes6789_d8yodxl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvM2RmNmU2MzQtNjBjMS00NWM3LTk0MDktZWNmYTM0ZmMwNzI3XC9kOHlvZHhsLWE3OTI4MGI5LTI1YmItNGU1Ni1iMzM4LTFiOGRiNzdmOTBiNC5wbmciLCJ3aWR0aCI6Ijw9NDU0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Suk1ytWaPdiOla4Chwg1n3ssEgcNZcjNWyf6Usu_hWs",
+        "inputImg":"https://pbs.twimg.com/media/EF3tAPOX0AAI4c7.jpg",
+        "side": "Marvel"
+    },
+    {
+        "id":30,
+        "Name": "Shuma-Gorath",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_shuma_gorath.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/d/dd/Mvc2-shuma-gorath.jpg/revision/latest?cb=20200118121949",
+        "side": "Marvel"
+    },
+    {
+        "id":31,
+        "Name": "Thanos",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_thanos.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/c/ca/Mvc2-thanos.jpg/revision/latest?cb=20200118115007",
+        "side": "Marvel"
+    },
+    {
+        "id":32,
+        "Name": "Cyclops",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_cyclops.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/a/a5/Mvc2-cyclops.jpg/revision/latest?cb=20080205042843",
+        "side": "Marvel"
+    },
+    {
+        "id":33,
+        "Name": "Wolverine(Bone)",
+        "iconPic":"http://www.videogamesblogger.com/wp-content/uploads/2009/06/marvel-vs-capcom-2-xbox-360-ps3-wolverine-bone-claws.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/0/01/Mvc2-wolverine-bone.jpg/revision/latest?cb=20200118115748",
+        "side": "Marvel"
+    },
+    {
+        "id":34,
+        "Name": "War Machine",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_warmachine.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/6/65/Mvc2-war-machine.jpg/revision/latest?cb=20200118120056",
+        "side": "Marvel"
+    },
+    {
+        "id":35,
+        "Name": "Marrow",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_marrow.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/e/e4/Mvc2-marrow.jpg/revision/latest?cb=20200118112435",
+        "side": "Marvel"
+    },
+    {
+        "id":36,
+        "Name": "Psylocke",
+        "iconPic":"https://cdn.videogamesblogger.com/wp-content/uploads/2009/06/marvel-vs-capcom-2-xbox-360-ps3-psylocke.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/9/99/Mvc2-psylocke.jpg/revision/latest?cb=20200118114305",
+        "side": "Marvel"
+    },
+    {
+        "id":37,
+        "Name": "Silver-Samurai",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_silversamurai.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/2/2d/Mvc2-silver-samurai.jpg/revision/latest?cb=20200118113514",
+        "side": "Marvel"
+    },
+    {
+        "id":38,
+        "Name": "Saber-tooth",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_sabretooth.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/1/1c/Mvc2-sabretooth.jpg/revision/latest?cb=20080208043014",
+        "side": "Marvel"
+    },
+    {
+        "id":39,
+        "Name": "Cable",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_cable.jpg",
+        "inputImg":"../MVC2-inputs/Cable.png",
+        "side": "Marvel"
+    },
+    {
+        "id":40,
+        "Name": "Ice-man",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_iceman.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/9/94/Mvc2-iceman.jpg/revision/latest?cb=20080206022411",
+        "side": "Marvel"
+    },
+    {
+        "id":41,
+        "Name": "Gambit",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_gambit.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/0/03/Mvc2-gambit.jpg/revision/latest?cb=20200118114545",
+        "side": "Marvel"
+    },
+    {
+        "id":42,
+        "Name": "Blackheart",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_blackheart.jpg",
+        "inputImg":"../MVC2-inputs/Blackheart.png",
+        "side": "Marvel"
+    },
+    {
+        "id":43,
+        "Name": "Captain America",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_captainamerica.jpg",
+        "inputImg":"https://i.kym-cdn.com/photos/images/original/001/958/026/500",
+        "side": "Marvel"
+    },
+    {
+        "id":44,
+        "Name": "Spider-man",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_spiderman.jpg",
+        "inputImg":"https://i.pinimg.com/originals/e4/ea/ff/e4eaff59acaf8cbda98d865fcf23b6b0.jpg",
+        "side": "Marvel"
+    },
+    {
+        "id":45,
+        "Name": "Juggernaut",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_juggernaut.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/0/04/Mvc2-juggernaut.jpg/revision/latest?cb=20200118115443",
+        "side": "Marvel"
+    },
+    {
+        "id":46,
+        "Name": "Spiral",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_spiral.jpg",
+        "inputImg":"https://cdn.wikimg.net/en/strategywiki/images/e/eb/MVC_Spiral.png",
+        "side": "Marvel"
+    },
+    {
+        "id":47,
+        "Name": "Doctor-Doom",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_doctordoom.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/d/d6/Mvc2-doctor-doom.jpg/revision/latest?cb=20080206022134",
+        "side": "Marvel"
+    },
+    {
+        "id":48,
+        "Name": "Venom",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_venom.jpg",
+        "inputImg":"https://wiki.supercombo.gg/images/8/8e/MVC2_Venom_art.png",
+        "side": "Marvel"
+    },
+
+    {
+        "id":49,
+        "Name": "Magneto",
+        "iconPic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ZBOVaTvV_6wdHhhcnj2KcoIjYDDtcN7muZ3mtRxOfh_rhBlqwNupF7qYdNX_tiCu_k8&usqp=CAU",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/b/bd/Mvc2-magneto.jpg/revision/latest?cb=20091227084914",
+        "side": "Marvel"
+    },
+    {
+        "id":50,
+        "Name": "Colossus",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_colossus.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/8/81/Mvc2-colossus.jpg/revision/latest?cb=20200118122732",
+        "side": "Marvel"
+    },
+    {
+        "id":51,
+        "Name": "Rogue",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_rogue.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/2/2f/Mvc2-rogue.jpg/revision/latest?cb=20200118112555",
+        "side": "Marvel"
+    },
+    {
+        "id":52,
+        "Name": "Hulk",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_incrediblehulk.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/0/07/Mvc2-hulk.jpg/revision/latest?cb=20080204233131",
+        "side": "Marvel"
+    },
+    {
+        "id":53,
+        "Name": "Ironman",
+        "iconPic":"https://pbs.twimg.com/media/Ep3U8HeUwAA3Lcd.jpg",
+        "inputImg":"https://i.kym-cdn.com/photos/images/original/001/958/049/3fb",
+        "side": "Marvel"
+    },
+    {
+        "id":54,
+        "Name": "Omega Red",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_omegared.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/f/f9/Mvc2-omega-red.jpg/revision/latest?cb=20200118112005",
+        "side": "Marvel"
+    },
+    {
+        "id":55,
+        "Name": "Storm",
+        "iconPic":"https://imgix.kotaku.com.au/content/uploads/sites/3/2021/09/08/8839d2a867d25eea79516bb977fe9026.jpg?ar=16%3A9&auto=format&fit=crop&q=80&w=1280&nr=20",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/5/56/Mvc2-storm.jpg/revision/latest/scale-to-width-down/250?cb=20091227085131",
+        "side": "Marvel"
+    },
+    {
+        "id":56,
+        "Name": "Sentinal",
+        "iconPic":"https://media.eventhubs.com/images/mvc2/character_header_sentinel.jpg",
+        "inputImg":"https://static.wikia.nocookie.net/marvelvscapcom/images/4/40/Mvc2-sentinel.jpg/revision/latest?cb=20200118122633",
+        "side": "Marvel"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

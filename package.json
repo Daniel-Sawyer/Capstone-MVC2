@@ -1,0 +1,18 @@
+{
+  "name": "mvsc-2",
+  "version": "1.0.0",
+  "main": "server/MVC2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
